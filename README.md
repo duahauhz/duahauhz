@@ -10,8 +10,8 @@
 
 ## Hi there
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=duahauhz&show_icons=true&hide_border=false&border_radius=20&border_color=DDD6C9&bg_color=F4F0E8&title_color=E8472B&text_color=15171C&icon_color=E8472B&ring_color=E8472B&rank_icon=github&count_private=true&include_all_commits=true&custom_title=HAU's%20GitHub%20Stats" alt="HAU's GitHub stats" height="170">
+<p align="center">
+  <img src="assets/stats.svg" alt="GitHub stats for duahauhz: repositories, stars, followers, commits and pull requests in the last year, top languages and a contribution heatmap." width="100%">
 </p>
 
 - Studying AI at **PTIT**, year 4. Research interests: computer vision and applied mathematics.
