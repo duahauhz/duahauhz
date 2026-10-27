@@ -4,7 +4,7 @@
 <rect x=".5" y=".5" width="1199" height="455" rx="22" fill="url(#grid)" opacity=".7"/>
 <circle cx="53" cy="42" r="5" fill="#c6ff3d"/>
 <text x="68" y="47" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" fill="#c6ff3d" text-anchor="start" letter-spacing="2">GITHUB / duahauhz</text>
-<text x="1152" y="47" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#8796a8" text-anchor="end" letter-spacing="1.5">UPDATED 2026-10-26 - AUTO DAILY</text>
+<text x="1152" y="47" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#8796a8" text-anchor="end" letter-spacing="1.5">UPDATED 2026-10-27 - AUTO DAILY</text>
 <text x="48.0" y="126" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#e8eef5" text-anchor="start">28</text>
 <text x="48.0" y="148" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">REPOSITORIES</text>
 <line x1="268.8" y1="82" x2="268.8" y2="146" stroke="#1f2833"/>
@@ -14,19 +14,19 @@
 <text x="513.6" y="126" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#e8eef5" text-anchor="start">0</text>
 <text x="513.6" y="148" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">FOLLOWERS</text>
 <line x1="710.4000000000001" y1="82" x2="710.4000000000001" y2="146" stroke="#1f2833"/>
-<text x="734.4000000000001" y="126" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#e8eef5" text-anchor="start">33</text>
+<text x="734.4000000000001" y="126" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#e8eef5" text-anchor="start">36</text>
 <text x="734.4000000000001" y="148" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">COMMITS / YEAR</text>
 <line x1="931.2" y1="82" x2="931.2" y2="146" stroke="#1f2833"/>
 <text x="955.2" y="126" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#e8eef5" text-anchor="start">0</text>
 <text x="955.2" y="148" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">PULL REQUESTS / YEAR</text>
 <text x="48" y="196" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">LANGUAGES</text>
 <g clip-path="url(#bar)"><rect x="48" y="214" width="1104" height="10" fill="#141c26"/>
-<rect x="48.00" y="214" width="576.44" height="10" fill="#c6ff3d"/>
-<rect x="624.44" y="214" width="209.39" height="10" fill="#38e1ff"/>
-<rect x="833.83" y="214" width="190.03" height="10" fill="#ff8a3d"/>
-<rect x="1023.86" y="214" width="79.25" height="10" fill="#ff4d8d"/>
-<rect x="1103.12" y="214" width="21.42" height="10" fill="#ffd23d"/>
-<rect x="1124.54" y="214" width="27.46" height="10" fill="#8796a8"/>
+<rect x="48.00" y="214" width="576.25" height="10" fill="#c6ff3d"/>
+<rect x="624.25" y="214" width="209.33" height="10" fill="#38e1ff"/>
+<rect x="833.58" y="214" width="189.97" height="10" fill="#ff8a3d"/>
+<rect x="1023.55" y="214" width="79.23" height="10" fill="#ff4d8d"/>
+<rect x="1102.78" y="214" width="21.42" height="10" fill="#ffd23d"/>
+<rect x="1124.20" y="214" width="27.80" height="10" fill="#8796a8"/>
 </g>
 <rect x="48" y="244" width="10" height="10" rx="3" fill="#c6ff3d"/>
 <text x="66" y="254" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#c9d4df" text-anchor="start">Jupyter Notebook 52.2%</text>
@@ -406,8 +406,9 @@
 <rect x="813" y="379" width="12" height="12" rx="3" fill="#141c26"/>
 <rect x="813" y="394" width="12" height="12" rx="3" fill="#141c26"/>
 <rect x="828" y="304" width="12" height="12" rx="3" fill="#141c26"/>
-<rect x="828" y="319" width="12" height="12" rx="3" fill="#55741a"/>
-<text x="871" y="330" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="700" fill="#e8eef5" text-anchor="start">57</text>
+<rect x="828" y="319" width="12" height="12" rx="3" fill="#8bbd24"/>
+<rect x="828" y="334" width="12" height="12" rx="3" fill="#141c26"/>
+<text x="871" y="330" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="700" fill="#e8eef5" text-anchor="start">60</text>
 <text x="871" y="350" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">CONTRIBUTIONS</text>
 <text x="1021" y="330" font-family="'Space Grotesk', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="700" fill="#c6ff3d" text-anchor="start">1</text>
 <text x="1021" y="350" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="500" fill="#8796a8" text-anchor="start" letter-spacing="1.6">CURRENT STREAK</text>
